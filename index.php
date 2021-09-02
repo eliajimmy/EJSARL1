@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p>
+    Salut tout le monde</p>
 </body>
 </html>
