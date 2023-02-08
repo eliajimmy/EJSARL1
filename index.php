@@ -6,8 +6,7 @@
     <title>Document</title>
     documents\ejsarl\referentiel\application\ejsarl\ejsarl1
 
-    Bonjour yannick monga
-
+    Bonjour tout le monde
     <form>
 
     <input>
