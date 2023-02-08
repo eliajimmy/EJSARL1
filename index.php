@@ -7,6 +7,14 @@
     documents\ejsarl\referentiel\application\ejsarl\ejsarl1
 
     Bonjour tout le monde
+    <form>
+
+    <input>
+
+    <input>
+
+</form>
+
 </head>
 <body>
     Nous sommes à kinshasa
